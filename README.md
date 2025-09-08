@@ -1,5 +1,3 @@
-<!-- ## Hi there 👋 -->
-
 ![Rais Ramadhani](images/github-header.png)
 
 ##### Skills
@@ -18,10 +16,20 @@
 
 ##### Connect with me
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](mailto:surat.raisramadhani@gmail.com?subject=Web%20Development%20Inquiry%20from%20GitHub&body=Hello%20%5BYour%20Name%5D%2C%0A%0AI'm%20reaching%20out%20to%20you%20from%20your%20GitHub%20profile.%0A%0AI%20would%20like%20to%20discuss%3A%20%5BPlease%20specify%3A%20a%20project%2C%20a%20collaboration%2C%20a%20question%2C%20etc.%5D)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/raisramadhani/)
-[<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads">](https://www.threads.com/@roezrmdhn)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">](https://instagram.com/roezrmdhn)
+<p align="center" style="margin-top:10px;">
+  <a href="mailto:surat.raisramadhani@gmail.com?subject=Web%20Development%20Inquiry%20from%20GitHub&body=Hello%20%5BYour%20Name%5D%2C%0A%0AI'm%20reaching%20out%20to%20you%20from%20your%20GitHub%20profile.%0A%0AI%20would%20like%20to%20discuss%3A%20%5BPlease%20specify%3A%20a%20project%2C%20a%20collaboration%2C%20a%20question%2C%20etc.%5D" style="margin:0 8px;display:inline-block;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="28" style="transition:transform .2s;">
+  </a>
+  <a href="https://www.linkedin.com/in/raisramadhani/" style="margin:0 8px;display:inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" style="transition:transform .2s;">
+  </a>
+  <a href="https://www.threads.com/@roezrmdhn" style="margin:0 8px;display:inline-block;">
+    <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=Threads&logoColor=white" alt="Threads" height="28" style="transition:transform .2s;">
+  </a>
+  <a href="https://instagram.com/roezrmdhn" style="margin:0 8px;display:inline-block;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="28" style="transition:transform .2s;">
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/raisramadhani/raisramadhani/output/snake.svg" alt="Snake animation" />
 
