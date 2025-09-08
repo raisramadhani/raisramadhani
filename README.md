@@ -10,13 +10,11 @@
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
-<img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raisramadhani&layout=donut)
+![raisramadhani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raisramadhani&theme=dark&hide_border=true)
+
+![raisramadhani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raisramadhani&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ##### Connect with me
 
